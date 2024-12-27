@@ -1,7 +1,8 @@
 # h1
 ## h2
 ...
- class coding{
+
+class coding{
     function hello(){
         echo "hello world"
     }
