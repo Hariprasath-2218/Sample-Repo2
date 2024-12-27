@@ -1,7 +1,11 @@
 # h1
 ## h2
 ...
-console.log("hello");
+ class coding{
+    function hello(){
+        echo "hello world"
+    }
+ }
 ...
 1. number1
 2. number2
